@@ -16,5 +16,4 @@ Além disso, o projeto contém uma classe principal (`Principal.java`) com **men
 
 ---
 
-## 🧱 Estrutura do Projeto
 
